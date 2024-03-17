@@ -1,0 +1,7 @@
+D:\Learn C# T3H\BaiTapBuoi2\BaiTapBuoi2\bin\Debug\BaiTapBuoi2.exe.config
+D:\Learn C# T3H\BaiTapBuoi2\BaiTapBuoi2\bin\Debug\BaiTapBuoi2.exe
+D:\Learn C# T3H\BaiTapBuoi2\BaiTapBuoi2\bin\Debug\BaiTapBuoi2.pdb
+D:\Learn C# T3H\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\BaiTapBuoi2.csproj.AssemblyReference.cache
+D:\Learn C# T3H\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\BaiTapBuoi2.csproj.CoreCompileInputs.cache
+D:\Learn C# T3H\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\BaiTapBuoi2.exe
+D:\Learn C# T3H\BaiTapBuoi2\BaiTapBuoi2\obj\Debug\BaiTapBuoi2.pdb
