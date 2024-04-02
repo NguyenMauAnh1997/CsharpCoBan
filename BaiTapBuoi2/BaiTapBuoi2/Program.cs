@@ -6,6 +6,17 @@ using System.Threading.Tasks;
 
 namespace BaiTapBuoi2
 {
+    public struct Product
+    {
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public Product(string _name, int _age)
+        {
+            Name = _name;
+            Age = _age;
+        }
+
+}
     class Program
     {
         static void Main(string[] args)
